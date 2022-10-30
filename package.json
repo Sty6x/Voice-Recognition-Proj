@@ -1,8 +1,7 @@
 {
-  "name": "test-development",
+  "name": "voice-recognition",
   "version": "1.0.0",
-  "description": "Repository for testing out different functionalities, css animations, and other stuff for testing",
-  "private": true,
+  "description": "Manipulating data from an audio output",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
@@ -11,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sty6x/test-development.git"
+    "url": "git+https://github.com/Sty6x/Voice-Recoginition-Proj.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sty6x/test-development/issues"
+    "url": "https://github.com/Sty6x/Voice-Recoginition-Proj/issues"
   },
   "homepage": "https://github.com/Sty6x/test-development#readme",
   "devDependencies": {
