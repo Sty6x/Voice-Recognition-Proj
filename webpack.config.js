@@ -27,7 +27,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'test Development',
+      title: 'Voice Recognition',
       template: './src/index.html',
     })
   ],
