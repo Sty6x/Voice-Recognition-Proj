@@ -1,2 +1,2 @@
-# def-development-environment-webpack
-Repository for pulling my default configs on webpack
+# Voice Recognition Project
+Trying out how to manipulate exported data from audio
